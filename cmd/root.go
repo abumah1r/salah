@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/abumahir/salah/internal/config"
+	"github.com/abumahir/salah/config"
 	"github.com/spf13/cobra"
 )
 
